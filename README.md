@@ -6,7 +6,7 @@ effect on optimization dynamics (training stability and convergence), validation
 and qualitative text generation. All experiments vary only one hyperparameter at a time
 relative to the baseline, following the systematic methodology required in the assignment.
 # Setup and dataset
-The nanoGPT repository was used as provided in the assignment. The setup, including
+The nanoGPT repository https://github.com/karpathy/nanoGPT.git was used. The setup, including
 repository cloning and package installation, was executed within the notebook environment.
 An automatic device selection was implemented to improve training efficiency, using a GPU
 (cuda) when available and otherwise falling back to CPU. In our case, training was
