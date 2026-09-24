@@ -21,3 +21,5 @@ to overfitting, making it particularly suitable for analyzing generalization beh
 effects of hyperparameters in small scale language models.
 To facilitate structured experimentation, separate directories for configurations, logs, plots,
 and generated samples were created, enabling consistent experiment tracking and analysis
+
+Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
