@@ -22,4 +22,4 @@ effects of hyperparameters in small scale language models.
 To facilitate structured experimentation, separate directories for configurations, logs, plots,
 and generated samples were created, enabling consistent experiment tracking and analysis
 
-Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
+These files were subsequently uploaded to GitHub to provide sample code and examples of previous work. Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
